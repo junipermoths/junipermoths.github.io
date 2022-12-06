@@ -44,6 +44,10 @@ li {
     padding: 30px;
 }
 
+a {
+    color: white;
+}
+
 /* Navbar styling */
 .navbar {
     position: fixed;
@@ -131,10 +135,7 @@ main {
     object-fit: cover;
 }
 
-.container a {
-    color: white;
-    font-size: 1.5rem;
-}
+
 
 
 
